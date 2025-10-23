@@ -9,7 +9,7 @@ This repository highlights my hands-on cloud projects across **AWS, Azure, and G
 
 ### Public Projects
 
-**API Hosting on AWS** | [GitHub](https://github.com/yourusername)  
+**API Hosting on AWS** | [GitHub](https://github.com/Joshma1699)  
 Deployed a RESTful API on AWS using Docker and EC2, connected to an RDS MySQL backend. Configured IAM roles for secure access and tested endpoints using Postman.
 
 ### Private Projects
